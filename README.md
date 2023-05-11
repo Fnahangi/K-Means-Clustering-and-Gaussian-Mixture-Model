@@ -1,6 +1,6 @@
 # K-Means-Clustering-and-Gaussian-Mixture-Model
 In this project, we will implement both K-Means clustering and Gaussian Micture Model
-## K-Means Clustering [30 pts]
+## K-Means Clustering
 In this problem, you will implement the K-means algorithm for clustering. You should implement from
 scratch, using either MATLAB or Python. Download the data set from Canvas. The data set contains 128
 data points, each has 13 features. If you encounter missing values in the dataset, replace the missing
@@ -16,7 +16,7 @@ distinguish the two clusters.
 • Write out your observations from the obtained results.
 Write the observations and explanations of the result from the figure into your report (PDF) file, and
 include your implementation in the zip file.
-# Gaussian Mixture Model (GMM) [40 pts]
+# Gaussian Mixture Model (GMM)
 In this problem, you will implement the Gaussian Mixture Model (or Mixture of Gaussians). You should
 implement from scratch, using either MATLAB or Python. Use the same dataset as in the previous
 problem. You should run your implementation with 𝑲 = 𝟐, and run until convergence. You can choose
